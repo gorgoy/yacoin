@@ -1,7 +1,6 @@
+YACoin official development tree
 
-NovaCoin official development tree
-
-NovaCoin - a hybrid scrypt PoW + PoS based cryptocurrency.
+YACoin - a hybrid scrypt PoW + PoS based cryptocurrency.
 
 * 10 minute PoW block targets
 * 10 minute PoS block targets
